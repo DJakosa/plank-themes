@@ -1,10 +1,10 @@
 # elementary OS plank light theme
 
-Flat light plank theme for elementary OS freya.
+Flat light plank theme for elementary OS freya. As it's derived from default theme it's the perfect replacement for stock theme.
 
 ![Showcase](https://raw.githubusercontent.com/DJakosa/plank-light/master/showcase.png)
 
-*Download elementary OS freya from https://elementary.io/. Like right now.*
+*Download elementary OS freya from https://elementary.io/. Like right now. It's free, it's stable, it's fast, it's open source and it just works.*
 
 # Usage
 1. Open Files as administrator
