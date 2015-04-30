@@ -7,6 +7,9 @@ Flat light plank theme for elementary OS freya. As it's derived from default the
 *Download elementary OS freya from https://elementary.io/. Like right now. It's free, it's stable, it's fast, it's open source and it just works.*
 
 # Usage
+
+There is no installer yet. It will be.
+
 1. Open Files as administrator
 2. Navigate to /usr/share/plank/themes
 3. Create a new folder named Light
