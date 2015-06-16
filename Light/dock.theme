@@ -11,7 +11,7 @@ LineWidth=0
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=255;;255;;255;;125
 #The starting color (RGBA) of the fill gradient.
-FillStartColor=255;;255;;255;;220
+FillStartColor=255;;255;;255;;200
 #The ending color (RGBA) of the fill gradient.
 FillEndColor=150;;160;;190;;220
 #The color (RGBA) of the inner stroke.
@@ -27,13 +27,13 @@ BottomPadding=2
 #The padding between items on the dock, in tenths of a percent of IconSize.
 ItemPadding=2
 #The size of item indicators, in tenths of a percent of IconSize.
-IndicatorSize=4
+IndicatorSize=8
 #The size of the icon-shadow behind every item, in tenths of a percent of IconSize.
 IconShadowSize=0
 #The height (in percent of IconSize) to bounce an icon when the application sets urgent.
 UrgentBounceHeight=1.5
 #The height (in percent of IconSize) to bounce an icon when launching an application.
-LaunchBounceHeight=0.625
+LaunchBounceHeight=0.5
 #The opacity value (0 to 1) to fade the dock to when hiding it.
 FadeOpacity=1
 #The amount of time (in ms) for click animations.
